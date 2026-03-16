@@ -247,8 +247,7 @@ Power BI Dashboard includes:
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/Prabin_Pokhrel/hr-attrition-analysis.git
-cd hr-attrition-analysis
+https://github.com/PrabinPokhrel/HR-Attrition-Analysis-Dashboard
 ```
 
 ### 2. Install required libraries
