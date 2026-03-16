@@ -247,7 +247,7 @@ Power BI Dashboard includes:
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/PRABIN_POKHREL/hr-attrition-analysis.git
+git clone https://github.com/Prabin_Pokhrel/hr-attrition-analysis.git
 cd hr-attrition-analysis
 ```
 
@@ -293,6 +293,7 @@ By acting on these findings, HR departments can significantly reduce turnover, s
 ## 👤 Author
 
 **PRABIN POKHREL**
+
 **DALARNA UNIVERSITY**
 
 
